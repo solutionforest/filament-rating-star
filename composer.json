@@ -1,17 +1,17 @@
 {
-    "name": "ibrahimbougaoua/filament-rating-star",
+    "name": "solution-forest/filament-rating-star",
     "description": "This is my package filament-rating-star",
     "keywords": [
         "ibrahimBougaoua",
         "laravel",
         "filament-rating-star"
     ],
-    "homepage": "https://github.com/ibrahimbougaoua/filament-rating-star",
+    "homepage": "https://github.com/solutionforest/filament-rating-star",
     "license": "MIT",
     "authors": [
         {
-            "name": "Ibrahim",
-            "email": "ibrahim.bougaoua@etu.usthb.dz",
+            "name": "Solution Forest",
+            "email": "info+package@solutionforest.net",
             "role": "Developer"
         }
     ],
